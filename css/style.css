@@ -6355,6 +6355,15 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.header-bg {
+    background-image: url('/img/pattern.webp');  /* Adjust the path based on your structure */
+    background-repeat: repeat;                    /* Repeat the pattern */
+    background-size: auto;                        /* or use 'cover' if it's a full image */
+    background-position: top left;
+    background-color: #f9f9f9;                    /* fallback in case image fails */
+}
+
+
 .bg-primary {
   background-color: #030712 !important;
 }
