@@ -6360,7 +6360,7 @@ a.close.disabled {
     background-repeat: repeat;                    /* Repeat the pattern */
     background-size: auto;                        /* or use 'cover' if it's a full image */
     background-position: top left;
-    background-color: #f9f9f9;                    /* fallback in case image fails */
+                 /* fallback in case image fails */
 }
 
 
