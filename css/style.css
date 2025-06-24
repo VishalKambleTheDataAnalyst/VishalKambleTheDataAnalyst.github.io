@@ -6356,7 +6356,7 @@ a.close.disabled {
 }
 
 .header-bg {
-    background-image: url('/img/pattern.webp');  /* Adjust the path based on your structure */
+    background-image: url("/img/pattern.webp");  /* Adjust the path based on your structure */
     background-repeat: repeat;                    /* Repeat the pattern */
     background-size: auto;                        /* or use 'cover' if it's a full image */
     background-position: top left;
